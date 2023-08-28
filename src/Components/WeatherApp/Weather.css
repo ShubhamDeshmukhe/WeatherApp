@@ -1,0 +1,151 @@
+.container {
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 20px;
+    background-image: linear-gradient(to right top, #ee9fcc, #e0a0d6, #cea1de, #bba3e4, #a5a5e7, #93aef0, #7eb7f6, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+
+    background-image: linear-gradient(to right top, #effbff, #e4f8ff, #d9f5ff, #cdf2ff, #c1efff, #bae8ff, #b5e0ff, #b4d8ff, #c7c6fc, #e3b2e8, #f99dc2, #fd9191);
+}
+
+.sub-container {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: auto;
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.search-icon {
+    width: 60px;
+    height: 60px;
+}
+
+.srcinput {
+    height: 37px;
+    padding: 5px;
+    width: 45%;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    text-align: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.srcimg {
+    width: 20px;
+    height: 20px;
+    padding: 14px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.other-info {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: center;
+    margin-top: 50px;
+    padding: 20px;
+    padding-bottom: 50px;
+    gap: 80px;
+}
+
+.element {
+    display: flex;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 22px;
+}
+
+.text1 {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.city-name {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.wea-img {
+    width: 150px;
+    height: 150px;
+}
+
+.weather-tem {
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.info {
+    margin: auto;
+    margin-left: 5px;
+}
+
+.icons {
+    height: 80px;
+    width: 80px;
+}
+
+
+/* Media Query */
+
+
+@media only screen and (max-width:480px) {
+    
+    .sub-container {
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        height: auto;
+        padding: 20px;
+        padding-top: 50px;
+    }
+    .search-icon {
+        width: 40px;
+        height: 20px;
+        margin-top: 5px;
+    }
+
+    .srcinput {
+        height: 30px;
+        width: 60%;
+        margin: 5px;
+    }
+    .srcimg {
+        width: 15px;
+        height: 15px;
+        padding: 13px;
+    }
+    .wea-img {
+        width: 100px;
+        height: 100px;
+    }
+    .text {
+        font-size: 18px;
+    }
+    
+    .text1 {
+        font-size: 16px;
+    }
+    .icons {
+        height: 50px;
+        width: 50px;
+    }
+    .city-name {
+        font-size: 18px;
+    }
+    .weather-tem {
+        font-size: 18px;
+    }
+    .other-info {
+        margin-top: 15px;
+        gap: 30px;
+    }
+
+}
