@@ -6,6 +6,10 @@
    Forecast: View the weather forecast for the next few days.
    Search: Search for weather information in different locations.
 
+## Technologies Used
+    React
+    OpenWeatherMap API (https://openweathermap.org/)
+
 ## Getting Started
    ### Prerequisites
      Node.js and npm installed.
