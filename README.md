@@ -14,11 +14,11 @@
      Navigate to the project directory and run npm install.
      Create an account on OpenWeatherMap and obtain an API key.
 
-## Usage
-   In the project directory, you can run: "npm start" to start the development server.
-   Open a browser and go to http://localhost:3000.
-   The page will reload when you make changes.\
-   You may also see any lint errors in the console.
+   ### Usage
+     In the project directory, you can run: "npm start" to start the development server.
+     Open a browser and go to http://localhost:3000.
+     The page will reload when you make changes.\
+     You may also see any lint errors in the console.
 
    
 # Acknowledgments
