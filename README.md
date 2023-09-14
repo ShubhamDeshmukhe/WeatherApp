@@ -8,7 +8,7 @@
 
 ## Technologies Used
     React
-    OpenWeatherMap API [GitHub Pages](https://pages.github.com/).
+    OpenWeatherMap API (https://openweathermap.org/).
 
 ## Getting Started
    ### Prerequisites
