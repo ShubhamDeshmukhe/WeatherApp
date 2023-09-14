@@ -2,8 +2,8 @@
 # A simple weather application built with React.
 
 ## Features
-   Current Weather: Get the current weather information for a location.
-   Forecast: View the weather forecast for the next few days.
+   Current Weather: Get the current weather information for a location.  
+   Forecast: View the weather forecast for the next few days.  
    Search: Search for weather information in different locations.
 
 ## Technologies Used
