@@ -28,16 +28,17 @@ You may also see any lint errors in the console.
      Create an account on OpenWeatherMap and obtain an API key.
 
 # JSX Code
- import React, { useState } from 'react'
-import './Weather.css'
-import search from '../Assets/search.jpg'
-import clear from '../Assets/clear.png'
-import cloud from '../Assets/cloud (2).png'
-import drizzle from '../Assets/drizzle.png'
-import humidity from '../Assets/humidity.png'
-import rain from '../Assets/rain.png'
-import snow from '../Assets/snow.png'
-import wind from '../Assets/wind.png'
+
+import React, { useState } from 'react';
+import './Weather.css';
+import search from '../Assets/search.jpg';
+import clear from '../Assets/clear.png';
+import cloud from '../Assets/cloud (2).png';
+import drizzle from '../Assets/drizzle.png';
+import humidity from '../Assets/humidity.png';
+import rain from '../Assets/rain.png';
+import snow from '../Assets/snow.png';
+import wind from '../Assets/wind.png';
 
 const Weather = () => {
 
